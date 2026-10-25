@@ -1,0 +1,14 @@
+.godot/
+.import/
+export/
+build/
+dist/
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
